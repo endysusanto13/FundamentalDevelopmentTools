@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-=======
-// comment 1
 // comment 2
 
->>>>>>> 2014269 (test: add second comment)
 const http = require("http");
 
 const host = '0.0.0.0';
